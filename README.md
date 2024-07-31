@@ -16,4 +16,4 @@
     <img alt = "laravel" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 <br/>
-Amo tecnologia, desenvolvimenot web, boas conversas e principalmente evoluir.
+Before starting, you just need to sign into Aria. If you don't have an account, you can create one for free.
